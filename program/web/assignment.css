@@ -1,0 +1,20 @@
+body {
+    background-image: url("https://png.pngtree.com/background/20210710/original/pngtree-yellow-gourmet-shading-cartoon-chef-restaurant-recruitment-background-material-picture-image_1025883.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position-y: center ;
+    background-size: 100% 100% ;
+   
+}
+h3 {
+    
+    color: rgb(12, 3, 4);
+    
+}
+a {
+    position: center;
+    color: rgb(241, 238, 238);
+}
+a:hover{
+    color: black;
+}
